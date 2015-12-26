@@ -1,0 +1,28 @@
+name: ThesisProof
+favicon: null
+layout_spectrum: 0.5588668156415224
+typography_spectrum: 0.19653080007992685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1282258101273328
+  lightness: 0.01163468137383461
+  saturation: 0.4995381112676114
+  rhythmicContrast: 0.8596966320183128
+purpose: []
