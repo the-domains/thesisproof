@@ -1,7 +1,7 @@
 name: ThesisProof
 favicon: null
 layout_spectrum: 0.5588668156415224
-typography_spectrum: 0.19653080007992685
+typography_spectrum: 0.88921
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#f5f5f5'
+    - '#92000a'
+    - '#b9a6a2'
+    - '#000000'
+    - '#a65a36'
   brandStrength: 0.1282258101273328
   lightness: 0.01163468137383461
   saturation: 0.4995381112676114
